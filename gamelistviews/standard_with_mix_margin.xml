@@ -1,0 +1,7 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./standard.xml</include>
+	<include>./mix_margin.xml</include>
+
+</theme>

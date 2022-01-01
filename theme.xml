@@ -1,0 +1,38 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./options.xml</include>
+	<include>./systemviews/system.xml</include>
+	<include>./systems/$system/custom.xml</include>
+	<include>./systems/$system/game_theme_music.xml</include>
+	<include>./systems/$system/game_theme_system.xml</include>
+	<include>./systems/$system/game_theme_gamelist.xml</include>
+	<include>./menus/next_slide.xml</include>
+
+	<view name="system">
+
+		<!-- default music when system music is missing -->
+		<sound name="directory">
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/music</path>
+		</sound>
+
+	</view>
+	
+	<view name="system,detailed">
+
+		<helpsystem name="help">
+			<pos>2 2</pos>
+		</helpsystem>
+
+	</view>
+
+	<view name="menu">
+
+		<helpsystem name="help">
+			<fontPath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/steelfishrg.ttf</fontPath>
+			<fontSize>.035</fontSize>
+		</helpsystem>
+
+	</view>
+
+</theme>

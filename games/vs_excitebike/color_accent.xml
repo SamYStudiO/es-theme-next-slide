@@ -1,0 +1,23 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<!-- color a5998f -->
+
+	<view name="system">
+	
+		<image name="logo_background" extra="true">
+			<color>a5998f</color>
+		</image>
+		
+	</view>
+
+	<view name="detailed">
+
+		<image name="background_left_overlay, background_right_overlay, info_background" extra="true">
+			<color>a5998f</color>
+		</image>
+
+	</view>
+	
+</theme>

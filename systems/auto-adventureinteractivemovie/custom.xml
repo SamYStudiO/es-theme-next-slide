@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../auto/custom.xml</include>
+	
+	<view name="system">
+			
+		<text name="system_name_text" extra="true">
+			<text>Adventure&#xA;Interactive&#xA;Movie</text>
+		</text>
+		
+	</view>
+	
+	<view name="detailed">
+			
+		<text name="system_name_text" extra="true">
+			<text>Adventure&#xA;Interactive Movie</text>
+		</text>
+		
+	</view>
+	
+</theme>

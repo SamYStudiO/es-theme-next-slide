@@ -1,0 +1,18 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<include subset="colorset" name="1-game accent">./colorsets/game_accent.xml</include>
+	<include subset="colorset" name="2-dark">./colorsets/dark.xml</include>
+	<include subset="colorset" name="3-black">./colorsets/black.xml</include>
+	<include subset="colorset" name="4-red">./colorsets/red.xml</include>
+	<include subset="colorset" name="5-brown">./colorsets/brown.xml</include>
+	<include subset="colorset" name="6-magenta">./colorsets/magenta.xml</include>
+	<include subset="colorset" name="7-blue">./colorsets/blue.xml</include>
+	<include subset="colorset" name="8-green">./colorsets/green.xml</include>
+	
+	<include subset="gamelistview" name="1a-standard">./gamelistviews/standard.xml</include>
+	<include subset="gamelistview" name="1b-standard with mix margin">./gamelistviews/standard_with_mix_margin.xml</include>
+	<include subset="gamelistview" name="2a-no game info">./gamelistviews/no_game_info.xml</include>
+	<include subset="gamelistview" name="2b-no game info with mix margin">./gamelistviews/no_game_info_with_mix_margin.xml</include>
+
+</theme>

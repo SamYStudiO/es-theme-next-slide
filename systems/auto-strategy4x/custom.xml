@@ -1,0 +1,14 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../auto/custom.xml</include>
+	
+	<view name="system, detailed">
+			
+		<text name="system_name_text" extra="true">
+			<text>Strategy&#xA;4x</text>
+		</text>
+		
+	</view>
+	
+</theme>

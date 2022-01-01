@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="logo">
+			<path>./carousel.png</path>
+		</image>
+
+	</view>
+
+</theme>

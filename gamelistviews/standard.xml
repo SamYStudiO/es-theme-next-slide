@@ -1,0 +1,7 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./common.xml</include>
+	<include>./game_info.xml</include>
+
+</theme>

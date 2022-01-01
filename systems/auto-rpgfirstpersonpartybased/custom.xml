@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../auto/custom.xml</include>
+	
+	<view name="system">
+			
+		<text name="system_name_text" extra="true">
+			<text>RPG&#xA;First Person&#xA;Party Based</text>
+		</text>
+		
+	</view>
+	
+	<view name=" detailed">
+			
+		<text name="system_name_text" extra="true">
+			<text>RPG&#xA;First Person&#xA;Party Based</text>
+		</text>
+		
+	</view>
+	
+</theme>

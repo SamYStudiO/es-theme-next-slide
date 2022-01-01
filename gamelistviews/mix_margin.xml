@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+		
+		<image name="md_image">
+			<maxSize>.65 .9</maxSize>
+		</image>
+
+	</view>
+
+</theme>

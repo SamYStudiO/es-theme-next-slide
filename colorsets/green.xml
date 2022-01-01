@@ -1,0 +1,21 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+	
+		<image name="logo_background" extra="true">
+			<color>328020</color>
+		</image>
+		
+	</view>
+
+	<view name="detailed">
+
+		<image name=" background_left_color_overlay, background_right_color_overlay, info_background" extra="true">
+			<color>328020</color>
+		</image>
+
+	</view>
+
+</theme>

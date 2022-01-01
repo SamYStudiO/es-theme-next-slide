@@ -1,0 +1,137 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+		
+		<image name="md_image">
+			<pos>.625 .5</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.75 1</maxSize>
+			<zIndex>20</zIndex>
+		</image>
+
+		<video name="md_video">
+			<pos>.625 .5</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.75 1</maxSize>
+			<zIndex>30</zIndex>
+		</video>
+		
+		<!--image name="debug_image" extra="true">
+			<pos>.625 .5</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.75 1</maxSize>
+			<path>./../assets/debug_image.png</path>
+			<zIndex>40</zIndex>
+		</image-->
+		
+		<image name="background_left" extra="true">
+			<pos>0 0</pos>
+			<maxSize>2 1</maxSize>
+			<zIndex>50</zIndex>
+		</image>
+		
+		<image name="background_left_overlay" extra="true">
+			<pos>0 0</pos>
+			<maxSize>2 1</maxSize>
+			<path>./../assets/gamelistviews_left_overlay.png</path>
+			<zIndex>51</zIndex>
+		</image>
+		
+		<image name="background_right" extra="true">
+			<pos>1 0</pos>
+			<origin>1 0</origin>
+			<maxSize>2 1</maxSize>
+			<zIndex>60</zIndex>
+		</image>
+		
+		<image name="background_right_overlay" extra="true">
+			<pos>1 0</pos>
+			<origin>1 0</origin>
+			<maxSize>2 1</maxSize>
+			<path>./../assets/gamelistviews_right_overlay.png</path>
+			<zIndex>61</zIndex>
+		</image>
+		
+		<image name="system_name" extra="true">
+			<path>./../systems/$system/logo.svg</path>
+			<pos>.015625 .027778</pos>
+			<maxSize>0.25 .06</maxSize>
+			<zIndex>70</zIndex>
+		</image>
+		<image name="system_name" extra="true" region="eu">
+			<path>./../systems/$system/eu/logo.svg</path>
+		</image> 
+		<image name="system_name" extra="true" region="us">
+			<path>./../systems/$system/us/logo.svg</path>
+		</image> 
+		<image name="system_name" extra="true" region="jp">
+			<path>./../systems/$system/jp/logo.svg</path>
+		</image>
+		
+		<textlist name="gamelist">
+			<pos>0 .115556</pos> 
+			<size>.25 .884444</size>
+			<alignment>left</alignment>
+			<horizontalMargin>.033854</horizontalMargin>
+			<selectorImagePath>./../assets/gamelistviews_textlist_selector_background.png</selectorImagePath>
+			<selectorOffsetY>.003</selectorOffsetY>
+			<fontSize>.028</fontSize>
+			<fontPath>./../assets/fonts/static/Quicksand-Light.ttf</fontPath>
+			<selectorColor>ffffffff</selectorColor>
+			<selectedColor>ffffffff</selectedColor>
+			<primaryColor>ffffffff</primaryColor>
+			<secondaryColor>ffffffff</secondaryColor>
+			<zIndex>80</zIndex>
+		</textlist>
+		
+		<image name="border_left" extra="true">
+			<pos>.25 0</pos>
+			<origin>0 0</origin>
+			<maxSize>2 1</maxSize>
+			<path>./../assets/gamelistviews_image_border.png</path>
+			<zIndex>90</zIndex>
+		</image>
+		
+		<image name="border_right" extra="true">
+			<pos>1.001 0</pos>
+			<origin>1 0</origin>
+			<maxSize>2 1</maxSize>
+			<path>./../assets/gamelistviews_image_border.png</path>
+			<zIndex>100</zIndex>
+		</image>
+		
+		<rating name="md_rating">
+			<pos>.932 .885</pos>
+			<size>0 .035</size>
+			<rotation>-90</rotation>
+			<filledPath>./../assets/gamelistviews_rating_filled.png</filledPath>
+			<unfilledPath>./../assets/gamelistviews_rating_empty.png</unfilledPath>
+			<zIndex>120</zIndex>
+		</rating>
+
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_publisher, md_lbl_developer, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite, md_publisher, md_developer, md_genre, md_players, md_playcount, md_favorite, md_description">
+			<pos>2 2</pos>
+			<origin>1 .5</origin>
+			<size>.5 0</size>
+			<alignment>right</alignment>
+			<color>ffffffff</color>
+			<fontSize>.02</fontSize>
+			<fontPath>./../assets/fonts/static/Quicksand-Regular.ttf</fontPath>
+			<zIndex>120</zIndex>
+		</text>
+		
+		<datetime name="md_releasedate">
+			<pos>2 2</pos>
+			<origin>1 .5</origin>
+			<alignment>right</alignment>
+			<color>ffffffff</color>
+			<fontSize>.02</fontSize>
+			<fontPath>./../assets/fonts/static/Quicksand-Regular.ttf</fontPath>
+			<zIndex>120</zIndex>
+		</datetime>
+
+	</view>
+
+</theme>

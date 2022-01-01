@@ -1,0 +1,78 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	
+	<view name="detailed">
+		
+		<image name="info_background" extra="true">
+			<origin>1 1</origin>
+			<pos>.97 1</pos>
+			<size>.3 .195</size>
+			<path>./../assets/gamelistviews_info_background.png</path>
+			<zIndex>55</zIndex>
+		</image>
+		
+		<image name="release_date_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.964 .831</pos>
+			<size>.025 .025</size>
+			<path>./../assets/game_info_releasedate.svg</path>
+			<zIndex>55</zIndex>
+		</image>
+
+		<datetime name="md_releasedate">
+			<pos>.934 .831</pos>
+		</datetime>
+
+		<image name="publisher_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.963 .866</pos>
+			<size>.025 .025</size>
+			<path>./../assets/game_info_publisher.svg</path>
+			<zIndex>55</zIndex>
+		</image>
+
+		<text name="md_publisher">
+			<pos>.933 .866</pos>
+			<zIndex>211</zIndex>
+		</text>
+
+		<image name="developer_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.962 .901</pos>
+			<size>.025 .025</size>
+			<path>./../assets/game_info_developer.svg</path>
+			<zIndex>55</zIndex>
+		</image>
+
+		<text name="md_developer">
+			<pos>.932 .901</pos>
+		</text>
+
+		<image name="genre_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.961 .936</pos>
+			<size>.025 .025</size>
+			<path>./../assets/game_info_genre.svg</path>
+			<zIndex>55</zIndex>
+		</image>
+
+		<text name="md_genre">
+			<pos>.931 .936</pos>
+		</text>
+
+		<image name="players_logo" extra="true">
+			<origin>1 .5</origin>
+			<pos>.96 .971</pos>
+			<size>.025 .025</size>
+			<path>./../assets/game_info_players.svg</path>
+			<zIndex>55</zIndex>
+		</image>
+
+		<text name="md_players">
+			<pos>.93 .971</pos>
+		</text>
+
+	</view>
+
+</theme>

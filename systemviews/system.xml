@@ -1,0 +1,65 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<feature supported="carousel">
+
+		<view name="system">
+
+			<carousel name="systemcarousel">
+				<logoScale>1</logoScale>
+				<logoSize>1 1</logoSize>
+				<pos>0 0</pos>
+				<size>1 1</size>
+				<maxLogoCount>5</maxLogoCount>
+				<logoAlignment>center</logoAlignment>
+				<color>00000000</color>
+				<zIndex>0</zIndex>
+			</carousel>
+			
+			<text name="systemInfo">
+				<disabled>true</disabled>
+			</text>
+
+		</view>
+
+	</feature>
+	
+	<view name="system">
+			
+		<image name="logo_background2" extra="true">
+			<path>./../assets/systemviews_logo_bakground2.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<maxSize>1 1</maxSize>
+			<zIndex>10</zIndex>
+		</image>
+
+		<image name="logo_border" extra="true">
+			<path>./../assets/systemviews_logo_border.png</path>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 .003</size>
+			<zIndex>20</zIndex>
+		</image>
+		
+		<image name="system_name" extra="true">
+			<path>./../systems/$system/logo.svg</path>
+			<pos>.482 .97</pos>
+			<origin>.5 1</origin>
+			<maxSize>.16 .1</maxSize>
+			<zIndex>30</zIndex>
+		</image>
+		<image name="system_name" extra="true" region="eu">
+			<path>./../systems/$system/eu/logo.svg</path>
+		</image> 
+		<image name="system_name" extra="true" region="us">
+			<path>./../systems/$system/us/logo.svg</path>
+		</image> 
+		<image name="system_name" extra="true" region="jp">
+			<path>./../systems/$system/jp/logo.svg</path>
+		</image>
+
+	</view>
+
+</theme>

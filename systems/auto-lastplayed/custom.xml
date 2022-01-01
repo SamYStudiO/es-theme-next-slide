@@ -1,0 +1,22 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<include>./../auto/custom.xml</include>
+	
+	<view name="system, detailed">
+			
+		<text name="system_name_text" extra="true">
+			<text>Last Played</text>
+		</text>
+		
+	</view>
+	
+	<view name="detailed">
+			
+		<text name="system_name_text" extra="true">
+			<fontSize>.07</fontSize>
+		</text>
+		
+	</view>
+	
+</theme>

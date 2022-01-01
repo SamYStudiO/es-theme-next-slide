@@ -1,0 +1,60 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="menu">
+
+		<menuText name="menufooter">
+			<fontSize>.025</fontSize>
+			<color>ffffff</color>
+			<fontPath>./../assets/fonts/static/Quicksand-Regular.ttf</fontPath>
+		</menuText>
+
+		<menuText name="menutext">
+			<fontSize>.035</fontSize>
+			<color>ffffff</color>
+			<separatorColor>ffffff</separatorColor>
+			<selectorColor>ffffff</selectorColor>
+			<selectedColor>111111</selectedColor>
+			<fontPath>./../assets/fonts/static/Quicksand-Regular.ttf</fontPath>
+		</menuText>
+
+		<menuTextSmall name="menutextsmall">
+			<fontSize>.028</fontSize>
+			<color>ffffff</color>
+			<fontPath>./../assets/fonts/static/Quicksand-Regular.ttf</fontPath>
+		</menuTextSmall>
+
+		<menuText name="menutitle">
+			<fontSize>.04</fontSize>
+			<color>ffffff</color>
+			<fontPath>./../assets/fonts/static/Quicksand-Bold.ttf</fontPath>
+		</menuText>
+
+		<menuBackground name="menubg">
+			<color>111111ee</color>
+			<path>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/frame.png</path>
+			<fadePath>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/scroll_gradient.png</fadePath>
+		</menuBackground>
+
+		<menuIcons name="menuicons">
+			<iconKodi>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Kodi.png</iconKodi>
+			<iconSystem>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/System.png</iconSystem>
+			<iconUpdates>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Updates.png</iconUpdates>
+			<iconGames>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Games.png</iconGames>
+			<iconControllers>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Controllers.png</iconControllers>
+			<iconUI>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/UI.png</iconUI>
+			<iconSound>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Sound.png</iconSound>
+			<iconNetwork>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Network.png</iconNetwork>
+			<iconScraper>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Scraper.png</iconScraper>
+			<iconAdvanced>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Advanced.png</iconAdvanced>
+			<iconQuit>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Quit.png</iconQuit>
+			<iconRestart>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Restart.png</iconRestart>
+			<iconShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Shutdown.png</iconShutdown>
+			<iconFastShutdown>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/Fastshutdown.png</iconFastShutdown>	
+			<iconLicense>/recalbox/share_init/system/.emulationstation/themes/recalbox-next/data/arts/menu_icons/License.png</iconLicense>			
+		</menuIcons>
+
+	</view>
+
+</theme>
