@@ -37,15 +37,6 @@ Please do not modify anything outside of *# Edit game list below* and *# Do not 
 You may repeat the same steps to edit auto-lastplayed game themes or any other system.
 
 
-### Unofficial system support
-Next Slide theme support game themes for systems not or not anymore supported by Recalbox.
-Actual extra supported system are:
-- cavestory
-- msx2+
-
-To add these systems to Recalbox check this [documentation](https://recalbox.gitbook.io/documentation/other/configuration/display-of-systems#add-a-custom-system)
-
-
 ### Copyright
 - All game theme images are exclusive for Recalbox distribution, if you want to redistribute this theme you'll have to replace these images.
 - Some game info icons are from [shareicon](https://www.shareicon.net).
