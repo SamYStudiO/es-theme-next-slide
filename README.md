@@ -8,19 +8,19 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Here are some screenshots of some available game themes :
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/system_castlevania.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/system_castlevania.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/system_rayman.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/system_rayman.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_mario_64.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/gamelist_mario_64.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_gex.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/gamelist_gex.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_dragons_lair.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/gamelist_dragons_lair.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_street_of_rage_ii.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/gamelist_street_of_rage_ii.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_rayman.png)
+![0](https://raw.githubusercontent.com/samystudio/es-theme-next-slide/master/screenshots/gamelist_rayman.png)
 
 
 ### Installation
@@ -95,11 +95,11 @@ If you still have issues with 720p (mainly images replaced with white rectangle)
 
 If you don't want to change memory settings or you're using PSP system then you should switch to 480p package, images quality will be less sharp but you should be able to use lots of systems without issues.
 
-**1080p [DOWNLOAD es-next-slide-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-1080p.zip)**
+**1080p [DOWNLOAD es-theme-next-slide-16x9-1080p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-1080p.zip)**
 
-**720p [DOWNLOAD es-next-slide-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-720p.zip)**
+**720p [DOWNLOAD es-theme-next-slide-16x9-720p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-720p.zip)**
 
-**480p [DOWNLOAD es-next-slide-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-480p.zip)**
+**480p [DOWNLOAD es-theme-next-slide-16x9-480p for Recalbox 8.0+](https://github.com/SamYStudiO/es-theme-next-slide/releases/download/v1.0/es-theme-next-slide-16x9-480p.zip)**
 
 [Download](https://github.com/SamYStudiO/es-theme-next-slide/releases) previous packages.
 
