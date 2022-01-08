@@ -8,19 +8,19 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 Here are some screenshots of some available game themes :
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/system_castlevania.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/system_castlevania.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/system_rayman.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/system_rayman.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist_mario_64.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_mario_64.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist_gex.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_gex.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist_dragons_lair.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_dragons_lair.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist_street_of_rage_ii.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_street_of_rage_ii.png)
 
-![0](https://raw.githubusercontent.com/samystudio/es-next-pixel/master/screenshots/gamelist_rayman.png)
+![0](https://raw.githubusercontent.com/samystudio/es-next-slide/master/screenshots/gamelist_rayman.png)
 
 
 ### Installation
