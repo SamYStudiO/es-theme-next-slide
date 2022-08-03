@@ -32,12 +32,12 @@
 			<zIndex>50</zIndex>
 		</image>
 		
-		<image name="background_left_overlay" extra="true">
+		<!--image name="background_left_overlay" extra="true">
 			<pos>0 0</pos>
 			<maxSize>2 1</maxSize>
 			<path>./../assets/gamelistviews_left_overlay.png</path>
 			<zIndex>51</zIndex>
-		</image>
+		</image-->
 		
 		<image name="background_right" extra="true">
 			<pos>1 0</pos>
@@ -46,13 +46,13 @@
 			<zIndex>60</zIndex>
 		</image>
 		
-		<image name="background_right_overlay" extra="true">
+		<!--image name="background_right_overlay" extra="true">
 			<pos>1 0</pos>
 			<origin>1 0</origin>
 			<maxSize>2 1</maxSize>
 			<path>./../assets/gamelistviews_right_overlay.png</path>
 			<zIndex>61</zIndex>
-		</image>
+		</image-->
 		
 		<image name="system_name" extra="true">
 			<path>./../systems/$system/logo.svg</path>

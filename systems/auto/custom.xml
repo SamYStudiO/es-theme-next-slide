@@ -5,12 +5,12 @@
 	<view name="system">
 			
 		<text name="system_name_text" extra="true">
-			<pos>.482 .98</pos>
-			<origin>.5 1</origin>
+			<pos>.485 .905</pos>
+			<origin>.5 .5</origin>
 			<alignment>center</alignment>
 			<color>ffffffff</color>
-			<lineSpacing>1.2</lineSpacing>
-			<fontSize>.05</fontSize>
+			<lineSpacing>1.15</lineSpacing>
+			<fontSize>.048</fontSize>
 			<fontPath>./../../assets/fonts/static/Quicksand-Bold.ttf</fontPath>
 			<zIndex>30</zIndex>
 		</text>

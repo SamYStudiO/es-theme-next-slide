@@ -9,6 +9,7 @@
 			<pos>.97 1</pos>
 			<size>.3 .195</size>
 			<path>./../assets/gamelistviews_info_background.png</path>
+			<color>404040</color>
 			<zIndex>55</zIndex>
 		</image>
 		
