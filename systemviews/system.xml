@@ -26,14 +26,6 @@
 	</feature>
 	
 	<view name="system">
-			
-		<!--image name="logo_background2" extra="true">
-			<path>./../assets/systemviews_logo_bakground2.png</path>
-			<pos>0 1</pos>
-			<origin>0 1</origin>
-			<maxSize>1 1</maxSize>
-			<zIndex>10</zIndex>
-		</image-->
 
 		<image name="logo_border" extra="true">
 			<path>./../assets/systemviews_logo_border.png</path>
@@ -48,6 +40,40 @@
 			<pos>0 .817</pos>
 			<size>1 .002</size>
 			<zIndex>20</zIndex>
+		</image>
+		
+		<image name="system_name_moins2" extra="true">
+			<path>./../systems/$system-2/logo.svg</path>
+			<pos>.285 .91</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.15 .1</maxSize>
+			<zIndex>30</zIndex>
+		</image>
+		<image name="system_name_moins2" extra="true" region="eu">
+			<path>./../systems/$system-2/eu/logo.svg</path>
+		</image> 
+		<image name="system_name_moins2" extra="true" region="us">
+			<path>./../systems/$system-2/us/logo.svg</path>
+		</image> 
+		<image name="system_name_moins2" extra="true" region="jp">
+			<path>./../systems/$system-2/jp/logo.svg</path>
+		</image>
+		
+		<image name="system_name_moins1" extra="true">
+			<path>./../systems/$system-1/logo.svg</path>
+			<pos>.385 .91</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.15 .1</maxSize>
+			<zIndex>30</zIndex>
+		</image>
+		<image name="system_name_moins1" extra="true" region="eu">
+			<path>./../systems/$system-1/eu/logo.svg</path>
+		</image> 
+		<image name="system_name_moins1" extra="true" region="us">
+			<path>./../systems/$system-1/us/logo.svg</path>
+		</image> 
+		<image name="system_name_moins1" extra="true" region="jp">
+			<path>./../systems/$system-1/jp/logo.svg</path>
 		</image>
 		
 		<image name="system_name" extra="true">
@@ -65,6 +91,40 @@
 		</image> 
 		<image name="system_name" extra="true" region="jp">
 			<path>./../systems/$system/jp/logo.svg</path>
+		</image>
+		
+		<image name="system_name_plus1" extra="true">
+			<path>./../systems/$system+1/logo.svg</path>
+			<pos>.585 .91</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.15 .1</maxSize>
+			<zIndex>30</zIndex>
+		</image>
+		<image name="system_name_plus1" extra="true" region="eu">
+			<path>./../systems/$system+1/eu/logo.svg</path>
+		</image> 
+		<image name="system_name_plus1" extra="true" region="us">
+			<path>./../systems/$system+1/us/logo.svg</path>
+		</image> 
+		<image name="system_name_plus1" extra="true" region="jp">
+			<path>./../systems/$system+1/jp/logo.svg</path>
+		</image>
+		
+		<image name="system_name_plus2" extra="true">
+			<path>./../systems/$system+2/logo.svg</path>
+			<pos>.685 .91</pos>
+			<origin>.5 .5</origin>
+			<maxSize>.15 .1</maxSize>
+			<zIndex>30</zIndex>
+		</image>
+		<image name="system_name_plus2" extra="true" region="eu">
+			<path>./../systems/$system+2/eu/logo.svg</path>
+		</image> 
+		<image name="system_name_plus2" extra="true" region="us">
+			<path>./../systems/$system+2/us/logo.svg</path>
+		</image> 
+		<image name="system_name_plus2" extra="true" region="jp">
+			<path>./../systems/$system+2/jp/logo.svg</path>
 		</image>
 
 	</view>

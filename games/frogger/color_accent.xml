@@ -1,23 +1,6 @@
 ﻿<theme>
 
 	<formatVersion>4</formatVersion>
-	
-	<!-- color 37474b -->
-
-	<view name="system">
-	
-		<image name="logo_background" extra="true">
-			<color>37474b</color>
-		</image>
-		
-	</view>
-
-	<view name="detailed">
-
-		<image name="background_left_overlay, background_right_overlay, info_background" extra="true">
-			<color>37474b</color>
-		</image>
-
-	</view>
+	<include>./$random(frogger_a0,frogger_a1)/color_accent.xml</include>
 	
 </theme>

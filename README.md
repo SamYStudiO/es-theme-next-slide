@@ -4,7 +4,7 @@ It is based on recabox-next theme so you'll get all advantages of it (region set
 
 **Theme is configured by default to use a custom mix to scrap your game images, please read carefully documentation below to get more info even if you don't want to use it as you'll have to adjust theme GAMELISTVIEW option to get it work properly with others mixes**.
 
-**Theme is compatible with Recalbox 8.0+ and with 16:9**.
+**Theme is compatible with Recalbox 9.0+ and with 16:9 screens**.
 
 Here are some screenshots of some available game themes :
 

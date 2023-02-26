@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="logo">
-			<path>./carousel.png</path>
+			<path>./$random(cavestory_a0,cavestory_a1)/carousel.png</path>
 		</image>
 
 	</view>

@@ -7,6 +7,7 @@
 	<include>./systems/$system/game_theme_music.xml</include>
 	<include>./systems/$system/game_theme_system.xml</include>
 	<include>./systems/$system/game_theme_gamelist.xml</include>
+	<include>./systems/$system/game_theme_color_accent.xml</include>
 	<include>./menus/next_slide.xml</include>
 
 	<view name="system">

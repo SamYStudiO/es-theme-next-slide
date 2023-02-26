@@ -1,23 +1,6 @@
 ﻿<theme>
 
 	<formatVersion>4</formatVersion>
-	
-	<!-- color 708a73 -->
-
-	<view name="system">
-	
-		<image name="logo_background" extra="true">
-			<color>708a73</color>
-		</image>
-		
-	</view>
-
-	<view name="detailed">
-
-		<image name="background_left_overlay, background_right_overlay, info_background" extra="true">
-			<color>708a73</color>
-		</image>
-
-	</view>
+	<include>./$random(cavestory_a0,cavestory_a1)/color_accent.xml</include>
 	
 </theme>

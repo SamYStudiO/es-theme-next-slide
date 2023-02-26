@@ -1,12 +1,13 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 cauliflower_power
-lemmings_pc
+lemmings
 lode_runner
 lumines_ii
-prince_of_persia_amiga600_apple2_amstradcpc_c64
+prince_of_persia
 puyo_puyo_2
-tetris_gb
+railway
+tetris
 # Do not edit below this line
 )
 

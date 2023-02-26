@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(frogger,ms_pac_man,pitfall_atari5200_colecovision)/system.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/system.xml</include>
+	<include>./../../games/$random(frogger,ms_pac_man,pitfall)/$system/system.xml</include>
 
 </theme>

@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(mazogs,night_gunner)/system.xml</include>
+	<include>./../../games/$random(frogger,mazogs,night_gunner)/system.xml</include>
+	<include>./../../games/$random(frogger,mazogs,night_gunner)/$system/system.xml</include>
 
 </theme>

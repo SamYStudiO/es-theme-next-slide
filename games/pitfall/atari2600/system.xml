@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="logo">
+			<path>./../pitfall_a0/carousel.png</path>
+		</image>
+
+	</view>
+
+</theme>

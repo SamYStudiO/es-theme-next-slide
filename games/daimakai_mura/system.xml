@@ -1,0 +1,13 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+
+	<view name="system">
+
+		<image name="logo">
+			<path>./$random(daimakai_mura_a0,daimakai_mura_a1)/carousel.png</path>
+		</image>
+
+	</view>
+
+</theme>

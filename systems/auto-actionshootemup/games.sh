@@ -1,11 +1,11 @@
 list=(
 # Edit game list below (full game list available from ./data/games folder)
 dragon_ball
-galaga_arcade_fba_fbneo_mame
-gradius_pcengine
+galaga
+gradius
 gridrunner
 seirei_senshi_spriggan
-space_harrier_pcengine
+space_harrier
 space_invaders
 super_stardust
 # Do not edit below this line

@@ -1,6 +1,7 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	<include>./../../games/$random(donkey_kong_junior,galaga_atari7800,ms_pac_man)/system.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,galaga,ms_pac_man)/system.xml</include>
+	<include>./../../games/$random(donkey_kong_junior,galaga,ms_pac_man)/$system/system.xml</include>
 
 </theme>

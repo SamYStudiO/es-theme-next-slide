@@ -1,0 +1,7 @@
+<theme>
+
+	<formatVersion>4</formatVersion>	
+	<include>./../../games/$random(railway,second_space)/music.xml</include>
+	<include>./../../games/$random(railway,second_space)/$system/music.xml</include>
+
+</theme>
